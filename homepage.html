@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+<title>Smart Flashcard</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="../static/Style.css">
+<link rel="stylesheet" href="http://www.w3schools.com/lib/w3.css">
+<body>
+
+
+<!-- Header -->
+<div id="header">
+    <div class="wrap w3-cyan">
+        <div id="title-area">
+           <h1 class="w3-xxlarge w3-text-white"><span class="w3-padding w3-black w3-opacity-min"><b>Smart</b></span> <span class="w3-hide-small w3-text-light-grey">Flashcard</span></h1>
+        </div>
+    </div>
+</div>
+<div>
+  <ul class="w3-navbar w3-white w3-wide w3-padding-8">
+    <!-- Float links to the right. Hide them on small screens -->
+    <li class="w3-right w3-hide-small">
+      <a href="#login" class="w3-left">Login</a>
+      <a href="#signup" class="w3-left  w3-margin-right">Sign Up</a>
+    </li>
+  </ul>
+</div>
+<div id="position-1" class="w3-container w3-cyan" style="height:580px;" >
+  <div id="slideshow" class="w3-container w3-section">
+
+    <div class="slideshow-container" style="margin-top: 30px">
+        <div class="mySlides fade">
+            <div class="numbertext">1 / 3</div>
+            <img src="http://www.w3schools.com/howto/img_fjords_wide.jpg" style="width: 100%">
+            <div class="text">Caption Text</div>
+        </div>
+
+        <div class="mySlides fade">
+            <div class="numbertext">2 / 3</div>
+            <img src="http://www.w3schools.com/howto/img_mountains_wide.jpg" style="width:100%">
+            <div class="text">Caption Two</div>
+        </div>
+
+        <div class="mySlides fade">
+            <div class="numbertext">3 / 3</div>
+            <img src="http://www.w3schools.com/howto/img_nature_wide.jpg" style="width: 100%">
+            <div class="text">Caption Three</div>
+        </div>
+    </div>
+    <br>
+
+    <div style="text-align:center">
+        <span class="dot"></span>
+        <span class="dot"></span>
+        <span class="dot"></span>
+    </div>
+
+  </div>
+
+  <div align="center" class="w3-margin-bottom w3-margin-right">
+      <div  class="flexsearch">
+		<div class="flexsearch--wrapper">
+			<form class="flexsearch--form" action="#" method="post">
+				<div class="flexsearch--input-wrapper">
+					<input class="flexsearch--input" type="text" placeholder="Find a word..">
+				</div>
+				<input class="flexsearch--submit" type="submit" value="&#10140;"/>
+			</form>
+		</div>
+      </div>
+  </div>
+</div>
+
+
+<div id="position-2" class="w3-container w3-topbar w3-bottombar w3-pale-blue" style="height:580px;" >
+
+</div>
+
+<div id="position-3" class="w3-container w3-cyan" style="height:580px;">
+
+</div>
+<script type="text/javascript" src="../static/animation.js"></script>
+
+</body>
+</html>
