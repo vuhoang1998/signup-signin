@@ -1,7 +1,97 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7e570857-c9ee-4c89-951d-96ecc6bd5c0f" name="Default" comment="" />
+    <list default="true" id="7e570857-c9ee-4c89-951d-96ecc6bd5c0f" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/arrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/buttons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/heading.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/icons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/more.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/searchBox.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/toolbar_find.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/magicslideshow-trial/images/places-01-1075.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/magicslideshow-trial/images/places-01-600.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/magicslideshow-trial/images/places-01-80.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/magicslideshow-trial/images/places-02-1075.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/magicslideshow-trial/images/places-02-600.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/magicslideshow-trial/images/places-02-80.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/magicslideshow-trial/images/places-03-1075.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/magicslideshow-trial/images/places-03-600.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/magicslideshow-trial/images/places-03-80.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/magicslideshow-trial/images/places-04-1075.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/magicslideshow-trial/images/places-04-600.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/magicslideshow-trial/images/places-04-80.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/magicslideshow-trial/images/places-05-1075.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/magicslideshow-trial/images/places-05-600.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/magicslideshow-trial/images/places-05-80.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/magicslideshow-trial/images/places-06-1075.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/magicslideshow-trial/images/places-06-600.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/magicslideshow-trial/images/places-06-80.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/magicslideshow-trial/images/places-07-1075.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/magicslideshow-trial/images/places-07-600.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/magicslideshow-trial/images/places-07-80.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/magicslideshow-trial/images/places-08-1075.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/magicslideshow-trial/images/places-08-600.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/magicslideshow-trial/images/places-08-80.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/magicslideshow-trial/images/places-09-1075.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/magicslideshow-trial/images/places-09-600.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/magicslideshow-trial/images/places-09-80.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/magicslideshow-trial/images/places-10-1075.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/magicslideshow-trial/images/places-10-600.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/magicslideshow-trial/images/places-10-80.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/magicslideshow-trial/images/places-11-1075.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/magicslideshow-trial/images/places-11-600.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/magicslideshow-trial/images/places-11-80.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/magicslideshow-trial/images/places-12-1075.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/magicslideshow-trial/images/places-12-600.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/magicslideshow-trial/images/places-12-80.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/magicslideshow-trial/images/places-13-1075.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/magicslideshow-trial/images/places-13-600.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/magicslideshow-trial/images/places-13-80.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/magicslideshow-trial/images/places-14-1075.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/magicslideshow-trial/images/places-14-600.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/magicslideshow-trial/images/places-14-80.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/magicslideshow-trial/images/places-15-1075.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/magicslideshow-trial/images/places-15-600.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/magicslideshow-trial/images/places-15-80.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/magicslideshow-trial/images/places-16-1075.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/magicslideshow-trial/images/places-16-600.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/magicslideshow-trial/images/places-16-80.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/magicslideshow-trial/images/places-17-1075.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/magicslideshow-trial/images/places-17-600.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/magicslideshow-trial/images/places-17-80.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/magicslideshow-trial/images/places-18-1075.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/magicslideshow-trial/images/places-18-600.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/magicslideshow-trial/images/places-18-80.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/magicslideshow-trial/images/platforms.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/magicslideshow-trial/magicslideshow/themes/default/graphics/buttons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/magicslideshow-trial/magicslideshow/themes/default/graphics/buttons@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/magicslideshow-trial/magicslideshow/themes/default/graphics/loader.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/Flashcard.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flashcard.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/Style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/animation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/magicslideshow-trial/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/magicslideshow-trial/example1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/magicslideshow-trial/example2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/magicslideshow-trial/example3.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/magicslideshow-trial/example4.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/magicslideshow-trial/example5.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/magicslideshow-trial/example6.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/magicslideshow-trial/example7.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/magicslideshow-trial/example8.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/magicslideshow-trial/example9.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/magicslideshow-trial/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/magicslideshow-trial/installation.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/magicslideshow-trial/magicslideshow/magicslideshow.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/magicslideshow-trial/magicslideshow/magicslideshow.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/magicslideshow-trial/magicslideshow/themes/default/magicslideshow.default.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/magicslideshow-trial/magicslideshow/themes/magicslideshow.core.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/magicslideshow-trial/parameters.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/magicslideshow-trial/wizard.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/homepage.html" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,7 +111,7 @@
       <file leaf-file-name="pre-Hackathon.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pre-Hackathon.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
+            <state relative-caret-position="311">
               <caret line="57" column="61" lean-forward="false" selection-start-line="57" selection-start-column="61" selection-end-line="57" selection-end-column="61" />
               <folding>
                 <element signature="e#0#64#0" expanded="true" />
@@ -33,8 +123,8 @@
       <file leaf-file-name="sign.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/sign.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="23" column="42" lean-forward="false" selection-start-line="23" selection-start-column="42" selection-end-line="23" selection-end-column="42" />
+            <state relative-caret-position="391">
+              <caret line="23" column="15" lean-forward="false" selection-start-line="23" selection-start-column="15" selection-end-line="23" selection-end-column="15" />
               <folding />
             </state>
           </provider>
@@ -43,18 +133,8 @@
       <file leaf-file-name="test.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/static/test.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-743">
-              <caret line="134" column="18" lean-forward="true" selection-start-line="134" selection-start-column="18" selection-end-line="134" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="music.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../../HomeWork/SS8+ SS9/music.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1292">
-              <caret line="78" column="19" lean-forward="false" selection-start-line="78" selection-start-column="19" selection-end-line="78" selection-end-column="19" />
+            <state relative-caret-position="2278">
+              <caret line="134" column="18" lean-forward="false" selection-start-line="134" selection-start-column="18" selection-end-line="134" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -82,14 +162,17 @@
       <find>req</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/../../HomeWork/POST_GET/app.py" />
-        <option value="$PROJECT_DIR$/../../HomeWork/POST_GET/templates/addmore.html" />
-        <option value="$PROJECT_DIR$/../../HomeWork/RestfulIntro_SS12/RestfulIntro_SS12.py" />
+        <option value="$USER_HOME$/HomeWork/POST_GET/app.py" />
+        <option value="$USER_HOME$/HomeWork/POST_GET/templates/addmore.html" />
+        <option value="$USER_HOME$/HomeWork/RestfulIntro_SS12/RestfulIntro_SS12.py" />
         <option value="$PROJECT_DIR$/templates/sign2.html" />
-        <option value="$PROJECT_DIR$/../../HomeWork/SS9/app.py" />
+        <option value="$USER_HOME$/HomeWork/SS9/app.py" />
         <option value="$PROJECT_DIR$/static/main.css.js" />
         <option value="$PROJECT_DIR$/static/main.cs.css" />
         <option value="$PROJECT_DIR$/static/main.css.html" />
@@ -114,7 +197,7 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1382" />
+    <option name="width" value="1370" />
     <option name="height" value="744" />
   </component>
   <component name="ProjectView">
@@ -133,72 +216,26 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="pre-Hackathon" />
+              <option name="myItemId" value="signup-signin" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="pre-Hackathon" />
+              <option name="myItemId" value="signup-signin" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pre-Hackathon" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pre-Hackathon" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="templates" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pre-Hackathon" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pre-Hackathon" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="static" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pre-Hackathon" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pre-Hackathon" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="static" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="font-awesome.css" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NestingTreeNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../HomeWork/SS9/templates/addmore.html" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="js.eslint.eslintPackage" value="" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="list.type.of.created.stylesheet" value="SCSS" />
@@ -459,27 +496,27 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="1" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1370" height="744" extended-state="0" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2534351" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32913387" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32913387" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -493,6 +530,32 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pre-Hackathon.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#64#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/sign.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="15" lean-forward="true" selection-start-line="23" selection-start-column="15" selection-end-line="23" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/test.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2278">
+          <caret line="134" column="18" lean-forward="true" selection-start-line="134" selection-start-column="18" selection-end-line="134" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pre-Hackathon.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="935">
@@ -519,14 +582,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../HomeWork/SS8+ SS9/music.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1326">
-          <caret line="78" column="19" lean-forward="false" selection-start-line="78" selection-start-column="19" selection-end-line="78" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/HomeWork/SS8+ SS9/music.py" />
     <entry file="file://$PROJECT_DIR$/pre-Hackathon.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -545,14 +601,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../HomeWork/SS8+ SS9/music.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1292">
-          <caret line="78" column="19" lean-forward="false" selection-start-line="78" selection-start-column="19" selection-end-line="78" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/HomeWork/SS8+ SS9/music.py" />
     <entry file="file://$PROJECT_DIR$/pre-Hackathon.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -571,13 +620,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../HomeWork/RestfulIntro_SS12/RestfulIntro_SS12.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/HomeWork/RestfulIntro_SS12/RestfulIntro_SS12.py" />
     <entry file="file://$PROJECT_DIR$/pre-Hackathon.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="952">
@@ -606,89 +649,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../HomeWork/POST_GET/app.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../HomeWork/S13/S13.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-204">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../S13/S13.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../S14/S14.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-452">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../HomeWork/POST_GET/app.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="13" column="22" lean-forward="false" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../HomeWork/POST_GET/templates/addmore.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="48" lean-forward="false" selection-start-line="16" selection-start-column="48" selection-end-line="16" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../HomeWork/RestfulIntro_SS12/RestfulIntro_SS12.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="758">
-          <caret line="93" column="0" lean-forward="true" selection-start-line="93" selection-start-column="0" selection-end-line="93" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/HomeWork/POST_GET/app.py" />
+    <entry file="file://$USER_HOME$/HomeWork/S13/S13.py" />
+    <entry file="file://$PROJECT_DIR$/../S13/S13.py" />
+    <entry file="file://$PROJECT_DIR$/../S14/S14.py" />
+    <entry file="file://$USER_HOME$/HomeWork/POST_GET/app.py" />
+    <entry file="file://$USER_HOME$/HomeWork/POST_GET/templates/addmore.html" />
+    <entry file="file://$USER_HOME$/HomeWork/RestfulIntro_SS12/RestfulIntro_SS12.py" />
     <entry file="file://$PROJECT_DIR$/templates/sign2.html" />
-    <entry file="file://$PROJECT_DIR$/../../HomeWork/SS10/SS11.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../SS10/JS_intro/JS_intro.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-435">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../SS12/RestfulIntro_SS12.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="54" column="30" lean-forward="true" selection-start-line="54" selection-start-column="30" selection-end-line="54" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/HomeWork/SS10/SS11.py" />
+    <entry file="file://$PROJECT_DIR$/../SS10/JS_intro/JS_intro.py" />
+    <entry file="file://$PROJECT_DIR$/../SS12/RestfulIntro_SS12.py" />
     <entry file="file://$PROJECT_DIR$/static/main.css.js" />
     <entry file="file://$PROJECT_DIR$/static/main.cs.css" />
     <entry file="file://$PROJECT_DIR$/static/test.js" />
     <entry file="file://$PROJECT_DIR$/static/main.css.html" />
     <entry file="file://$PROJECT_DIR$/static/main.css" />
-    <entry file="file://$PROJECT_DIR$/../SS12/templates/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="211">
-          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="14" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../SS12/templates/index.html" />
     <entry file="file://$PROJECT_DIR$/static/main.js" />
     <entry file="file://$PROJECT_DIR$/static/font.css" />
     <entry file="file://$PROJECT_DIR$/static/font-awesome.min.css">
@@ -705,48 +682,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../HomeWork/SS9/templates/addmore.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../HomeWork/SS9/app.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="17" column="5" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../HomeWork/SS8+ SS9/music.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1292">
-          <caret line="78" column="19" lean-forward="false" selection-start-line="78" selection-start-column="19" selection-end-line="78" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/HomeWork/SS9/templates/addmore.html" />
+    <entry file="file://$USER_HOME$/HomeWork/SS9/app.py" />
+    <entry file="file://$USER_HOME$/HomeWork/SS8+ SS9/music.py" />
     <entry file="file://$PROJECT_DIR$/static/test.css" />
     <entry file="file://$PROJECT_DIR$/static/test.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-743">
-          <caret line="134" column="18" lean-forward="true" selection-start-line="134" selection-start-column="18" selection-end-line="134" selection-end-column="18" />
+        <state relative-caret-position="2278">
+          <caret line="134" column="18" lean-forward="false" selection-start-line="134" selection-start-column="18" selection-end-line="134" selection-end-column="18" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/sign.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="23" column="42" lean-forward="false" selection-start-line="23" selection-start-column="42" selection-end-line="23" selection-end-column="42" />
+        <state relative-caret-position="391">
+          <caret line="23" column="15" lean-forward="false" selection-start-line="23" selection-start-column="15" selection-end-line="23" selection-end-column="15" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pre-Hackathon.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
+        <state relative-caret-position="311">
           <caret line="57" column="61" lean-forward="false" selection-start-line="57" selection-start-column="61" selection-end-line="57" selection-end-column="61" />
           <folding>
             <element signature="e#0#64#0" expanded="true" />
